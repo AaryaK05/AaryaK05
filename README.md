@@ -3,6 +3,8 @@
 
 #### I am a BE undergraduate in Computer Engineering.
 
+Programming is something I found interesting as a child, but the interest died down when i actually pursued it as a career.  It took me a while to find the motivation and inclination i had before, and it has never been as beautiful as it is now.
+
 ---
 
 **About Me**:
