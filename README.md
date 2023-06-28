@@ -7,11 +7,13 @@
 
 **About Me**:
 
-🌱 I’m currently learning Full stack Web development,contributing to open source and game development.
+-🌱 I’m currently learning Full stack Web development,contributing to open source and game development.
 
- 🔭 I’m currently working on honing my web dev skills, improving my programming skills.
- <br>
- My Github Stats:
+ -🔭 I’m currently working on honing my web dev skills, improving my programming skills.
+
+ ---
+ 
+ **My Github Stats:**
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SolarCat05&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
