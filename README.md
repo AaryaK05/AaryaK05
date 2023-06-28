@@ -5,7 +5,7 @@
 
 
 🌱 I’m currently learning Full stack Web development,contributing to open source and game development.
-<br><br>
+
  🔭 I’m currently working on honing my web dev skills, improving my programming skills.
  <br>
  My Github Stats:
