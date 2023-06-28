@@ -3,6 +3,9 @@
 
 #### I am a BE undergraduate in Computer Engineering.
 
+---
+
+**About Me**:
 
 🌱 I’m currently learning Full stack Web development,contributing to open source and game development.
 
