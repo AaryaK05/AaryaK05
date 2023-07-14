@@ -9,7 +9,7 @@ Programming is something I found interesting as a child, but the interest died d
 
 **About Me**:
 
--🌱 I’m currently learning Full stack Web development,contributing to open source and game development.
+-🌱 I’m currently learning Full stack Web development,how to contribute to open source and game development.
 
  -🔭 I’m currently working on honing my web dev skills, improving my programming skills.
 
