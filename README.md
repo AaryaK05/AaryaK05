@@ -33,4 +33,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub Views](https://komarev.com/ghpvc/?SolarCat05=<SolarCat05>)
+![](https://komarev.com/ghpvc/?SolarCat05=SolarCat05)
