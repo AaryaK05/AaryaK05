@@ -33,4 +33,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://komarev.com/ghpvc/?username=SolarCat05)
+![](https://komarev.com/ghpvc/?username=SolarCat05&color=blueviolet&style=for-the-badge)
