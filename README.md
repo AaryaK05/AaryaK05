@@ -3,7 +3,7 @@
 
 #### I am a BE undergraduate in Computer Engineering.
 
-Programming is something I found interesting as a child, but the interest died down when i actually pursued it as a career.  It took me a while to find the motivation and inclination i had before, and it has never been as beautiful as it is now.
+Programming is something I found interesting as a child, but my interest actually died down when i pursued it as a career. It took me a while to find the motivation and inclination i had before.
 
 ---
 
@@ -11,7 +11,11 @@ Programming is something I found interesting as a child, but the interest died d
 
 -🌱 I’m currently learning Full stack Web development,how to contribute to open source and game development.
 
- -🔭 I’m currently working on honing my web dev skills, improving my programming skills.
+-🔭 I’m currently working on honing my web dev skills, improving my programming skills, imporving my knowledge about DSA, getting better grades😅.
+
+-👯 I’m looking to collaborate on exciting open-source projects.
+ 
+-😄 Pronouns: She/her , they/them
 
  ---
  
