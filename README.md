@@ -9,9 +9,11 @@ Programming is something I found interesting as a child, but my interest actuall
 
 **About Me**:
 
--🌱 I’m currently learning Full stack Web development,machine learning.
+-🌱 I’m currently learning Full stack Web development and machine learning.
 
 -🔭 I’m currently working on honing my web dev skills, improving my programming skills, imporving my knowledge about DSA, getting better grades😅.
+
+-🤔 I’m looking for help with frontend development.
 
 -👯 I’m looking to collaborate on exciting open-source projects.
  
