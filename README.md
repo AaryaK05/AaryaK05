@@ -8,6 +8,7 @@ Programming is something I found interesting as a child, but my interest actuall
 ---
 
 **About Me**:
+
 *I am a Full stack Developer.*
 
 -🌱 I’m currently learning Full stack Web development and machine learning.
