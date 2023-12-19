@@ -1,10 +1,6 @@
 ### Hi there, I'm Aarya Kasbe👋
 
 
-#### I am a BE undergraduate in Computer Engineering..
-
----
-
 *I am a Full stack Web Developer.*
 
  ---
