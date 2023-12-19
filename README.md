@@ -1,13 +1,9 @@
 ### Hi there, I'm Aarya Kasbe👋
 
 
-#### I am a BE undergraduate in Computer Engineering.
-
-Programming is something I found interesting as a child, but my interest actually died down when i pursued it as a career. It took me a while to find the motivation and inclination i had before.
+#### I am a BE undergraduate in Computer Engineering..
 
 ---
-
-**About Me**:
 
 *I am a Full stack Web Developer.*
 
