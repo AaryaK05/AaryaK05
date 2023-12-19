@@ -11,18 +11,6 @@ Programming is something I found interesting as a child, but my interest actuall
 
 *I am a Full stack Web Developer.*
 
--🌱 I’m currently learning web game development.
-
--🔭 I’m currently working on honing my web dev skills, improving my programming skills, imporving my knowledge about DSA, getting better grades😅.
-
--🤔 I’m looking for help with frontend development.
-
--👯 I’m looking to collaborate on exciting open-source projects.
- 
--😄 Pronouns: She/her , they/them
-
-
-
  ---
  
  **My Github Stats:**
