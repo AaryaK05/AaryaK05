@@ -1,7 +1,7 @@
 ### Hi there, I'm Aarya Kasbe👋
 
 
-*I am a Full stack Web Developer.*
+* Full stack Web dev .*
 
  ---
  
