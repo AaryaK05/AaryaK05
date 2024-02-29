@@ -1,7 +1,7 @@
 ### Hi there, I'm Aarya Kasbe👋
 
 
-* Beginner Full stack Web dev .*
+* *Beginner Full stack Web dev.*
 
 <img width="400" height="280" alt="color picker" src="https://gifdb.com/images/high/programming-typing-cat-meme-tjogs4o3p6l1vu0w.gif" />
 
