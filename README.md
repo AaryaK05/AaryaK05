@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aarya Kasbe</h1>
 <h3 align="center">A full stack dev from India</h3>
 
- 
-<br />
-
 
     
 - 🔭 I’m currently working on **Web Projects**
