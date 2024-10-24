@@ -2,9 +2,6 @@
 <h3 align="center">A full stack dev from India</h3>
 
 
-    
-- 🔭 I’m currently working on **Web Projects**
-
 - 🌱 I’m currently learning **Typescript, Game Development and IOT**
 
 - 📫 How to reach me **kasbeaarya05@gmail.com**
