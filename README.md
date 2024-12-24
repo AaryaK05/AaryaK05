@@ -2,7 +2,7 @@
 <h3 align="center">A full stack dev from India</h3>
 
 
-- 🌱 I’m currently learning **Typescript, Game Development and IOT**
+- 🌱 I’m currently learning **Docker**
 
 - 📫 How to reach me **kasbeaarya05@gmail.com**
 
