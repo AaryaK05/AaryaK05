@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aarya Kasbe</h1>
 <!-- <h3 align="center"></h3> -->
 
-
-- 🌱 I’m currently learning **Docker**
-
 - 📫 How to reach me **kasbeaarya05@gmail.com**
 
 -  😄 Pronouns: she/her, they/them
