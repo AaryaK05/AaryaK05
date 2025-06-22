@@ -5,6 +5,8 @@
 
 -  😄 Pronouns: she/her, they/them
 
+- 🔭 I’m currently participating in game jams on Itch.io, check out my progress-<a href="https://ak05.itch.io/">Itch.io profile</a>
+
 
 <!-- - 👨‍💻 All of my projects are available at [http://portfolio-kpyo.onrender.com/](http://portfolio-kpyo.onrender.com/)
 -->
